@@ -37,6 +37,8 @@ Due to the COVID 19 pandemic, Large Co. employees have been working from home si
 
 - Preview of predictions on new employee data:
 
+![Prediction Function](https://github.com/swzoeller/Employee-Burnout-Classification-Project/blob/main/images/predictions_preview.PNG "Prediction Function")
+
 #### Limitations
 - Dataset only had employees that joined between 2008 and 2009 (No data on more recent employees)
 - Limited features in dataset
