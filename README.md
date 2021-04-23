@@ -27,7 +27,7 @@ Due to the COVID 19 pandemic, Large Co. employees have been working from home si
 ### Conclusions
 - The best performing model was XGBoost, with an overall accuracy of 73% and a recall for class 5 of 85% (out of all of the actual employees who had level 5 burnout, the model correctly classified 85% of them):
 
-![Model Comparison](https://github.com/swzoeller/Employee-Burnout-Classification-Project/blob/main/images/model_compare.PNG "Model Comparison")
+<img src="https://github.com/swzoeller/Employee-Burnout-Classification-Project/blob/main/images/model_compare.PNG" width="600" height="300"/>
 
 ![Matrices](https://github.com/swzoeller/Employee-Burnout-Classification-Project/blob/main/images/matrices_xg.png "Matrices")
 
